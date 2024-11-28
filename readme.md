@@ -2277,7 +2277,7 @@
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/Mohammad-Taha-Programmer">
-                <img src="https://avatars.githubusercontent.com/u/188706265?v=4" width="50">
+                <img src="https://avatars.githubusercontent.com/u/93265317?v=4" width="50">
                 <br>
                 <h2>محمد أمين طه</h2>
             </a>
@@ -2317,7 +2317,7 @@
             <a href="https://github.com/khaledfakach1">
                 <img src="https://avatars.githubusercontent.com/u/188706265?v=4" width="50">
                 <br>
-                <h2>محمود خالد</h2>
+                <h2>Mahmoud Khaled</h2>
             </a>
             <br>            
             <table>
@@ -2333,6 +2333,4 @@
             </table>            
         </td>
     </tr>
-    <!--// Mahmoud Khaled //-->
-
-</table>
+    <!--// Mahmoud khaled //-->
